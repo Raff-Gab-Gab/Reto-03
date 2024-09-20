@@ -43,21 +43,22 @@ fueran más suaves y que el río fluyera de manera más natural. También se afi
 Se utilizaron pequeñas elevaciones en el río con la herramienta de "Raise Terrain", creando pequeñas colinas en forma de círculos que se pintaron con una textura de piedra. Esto dio la apariencia de rocas
 naturales emergiendo del agua.
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/d2aec1c0-506b-41b7-a265-b2969188e333" height="500" width="700"  />
+   <img src="https://github.com/user-attachments/assets/5bc033d0-0bfa-4c6b-b151-d796810d6710" height="500" width="700"  />
 </p>
 
 # Creación de montañas en las esquinas del terreno
 Se levantó el terreno en las esquinas de la escena usando el "Raise/Lower Terrain Tool", formando colinas y, o, montañas. Luego, se aplicó una textura de hierba verde oscura en las partes elevadas,
 para simular vegetación montañosa, ayudando a darle mayor profundidad al paisaje.
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/de05d505-91b2-4118-931e-5ba805c82ef0" height="500" width="700"  />
+   <img src="https://github.com/user-attachments/assets/b9e4659f-532a-4835-8840-4737d3bc722b" height="500" width="700"  />
 </p>
 
 # Terreno final
 Para obtener una vista más oscura sin reflejos brillantes, se desactivó el "Global Lighting" en la escena, lo cual eliminó la iluminación ambiental predeterminada de Unity.
 Esto dio un efecto visual más lúgubre y centró la atención en las texturas oscuras del terreno.
+
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/62d8208c-e1a1-4f64-9717-23aa4cff15f4" height="500" width="700"  />
+   <img src="https://github.com/user-attachments/assets/d8a48d97-1d3b-4c60-9773-a0c01da2c695" height="500" width="700"  />
 </p>
 
 
