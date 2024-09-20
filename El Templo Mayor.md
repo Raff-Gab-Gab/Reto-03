@@ -23,7 +23,7 @@ Siguiendo este procedimiento, se creó la pirámide con 5 escalones. Luego, se l
 </p>
 
 ### Detalles de la estructura de la pirámide 
-Para crear las esquinas de dos picos en la cara principal de la pirámide, se utilizó un cubo, al cual se le realizaron 5 copias. A éste se le redujo su altura y grosor. Además, se estiró horizontalmente. Luego de modificarlo, se crearon las copias y se alteró cada una de ellas en el eje de X para lograr el tamaño apropiado dependiendo del nivel de la pirámide. Estas, se colocaron dentro de los niveles y se halaron hacia al frente con el eje Z para que sobresalgan de la estructura. Se tanteó manualmente para colocar los cubos aproximadamente en el centro de cada escalón. En relación al eje vertical, los cubos fueron puestos justamente encima del escalón. 
+Para crear las esquinas de dos picos en la cara principal de la pirámide, se utilizó un cubo, al cual se le realizaron 5 copias. A éste se le redujo su altura y grosor. Además, se estiró horizontalmente. Luego de modificarlo, se crearon las copias y se alteró cada una de ellas en el eje de X para lograr el tamaño apropiado dependiendo del nivel de la pirámide. Estas, se colocaron dentro de los escalones y se halaron hacia al frente con el eje Z para que sobresalgan de la estructura. Se tanteó manualmente para colocar los cubos aproximadamente en el centro de cada escalón. En relación al eje vertical, los cubos fueron puestos justamente encima del escalón. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7b7dc2f9-67f7-4d01-adf9-c4a546790af4" height="300" width="450" />
