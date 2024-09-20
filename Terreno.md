@@ -22,11 +22,15 @@ combinando las texturas para dar la sensación de un terreno de lodo y grama nat
 </p>
 
 # Elevación de terreno
-Se utilizó la herramienta de "Raise/Lower Terrain" con una opacidad baja para modificar la elevación del terreno un poco, creando variaciones pequeñas en la superficie. 
-El pincel seleccionado tenía una textura que ayudó a crear un aspecto de lodo, añadiendo realismo al terreno. Luego, se pintó un área de azul donde colocaríamos un lago. 
+Se pintó un área de azul donde colocaríamos un lago. Luego se utilizó la herramienta de "Raise/Lower Terrain" con una opacidad baja para modificar la elevación del terreno un poco, creando variaciones pequeñas en la superficie. 
+El pincel seleccionado tenía una textura que ayudó a crear un aspecto de lodo, añadiendo realismo al terreno.. 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/704b5d79-f02a-45ed-9625-77bab12c7d02" height="500" width="700"  />
 </p>
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/29fabd09-6e17-4b9f-bd16-a0db131edc9e" height="500" width="700"  />
+</p>
+
 
 # Creación del río
 Para crear el lago, se seleccionó la herramienta "Lower Terrain" y se hundió una parte del terreno. Esto formó una depresión que simularía el área de un lago.
