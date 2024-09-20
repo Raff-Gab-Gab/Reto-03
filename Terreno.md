@@ -1,6 +1,8 @@
 # Creación de un terreno
 Se creó un terreno plano de 20x20 unidades utilizando la herramienta de "Terrain" de Unity. Para ajustar la altura, se cambió el "height" a 50. El terreno fue posicionado directamente debajo de la pirámide para que encajara correctamente con ella. Esta referencia fue útil para visualizar cómo el terreno interactuaría con otros objetos.
-
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/680e1ae7-85f1-4305-8218-9173fc16b2e1" height="500" width="700" />
+</p>
 ![Screenshot 2024-09-19 214731](https://github.com/user-attachments/assets/680e1ae7-85f1-4305-8218-9173fc16b2e1)
 
 # Importando texturas
