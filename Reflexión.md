@@ -4,7 +4,7 @@ Reflexión
 -bla bla
 
 > Gabriela Germán
-- Este reto fue muy divertido 
+- Me gustó mucho este reto ya que con "ProBuilder" pudimos alterar la geometría de las figuras básicas
 
 > Gabriel Román
 -bla bla
