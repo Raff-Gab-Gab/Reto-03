@@ -38,7 +38,7 @@ Granjero con afinidad para los cerdos.
 
 ## Animales
 
-Hay muchos animales cerca de Tenochtitlán, desde los juguetones hasta los gruñones e inclso los solitarios. Cuando el jugador ayuda a un animal, éste puede regresas a su granja. Si el jugador llena su granja completamente de los animales aledaños éstos harán que el fiesta sea la más buena jamás vista. Claro está, ¡si se logran encontrar todos!
+Hay muchos animales cerca de Tenochtitlán, desde los juguetones hasta los gruñones e inclso los solitarios. Cuando el jugador ayuda a un animal, éste puede regresar a su granja. Si el jugador llena su granja completamente de los animales aledaños éstos harán que la fiesta sea la más buena jamás vista. Claro está, ¡si se logran encontrar todos!
 
 ![11 vaca album](https://github.com/user-attachments/assets/bb481168-4962-4cda-a751-7d775d580f88)
 
@@ -46,7 +46,7 @@ Tropa de vacas rebeldes.
 
 ![04 encuentro](https://github.com/user-attachments/assets/69434011-4ab2-41bd-9fc5-49fa58a7f9d8)
 
-Jugador con vairos animales.
+Jugador con varios animales.
 
 ![20 gallina sola](https://github.com/user-attachments/assets/bffb7f2e-ccf3-4dc7-88be-0c5b814c89ad)
 
