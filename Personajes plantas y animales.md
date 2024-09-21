@@ -30,11 +30,11 @@ Después se creó un objeto vacío para que pudiera contener árboles. Se duplic
 
 ![06](https://github.com/user-attachments/assets/cac347b8-03be-4e35-ac45-a5e312844b11)
 
-Luego se duplicó el contenedor de árboles para poder cubrir el lado de árboles.
+Luego se duplicó el contenedor de árboles para poder cubrir el lado del terreno.
 
 ![07](https://github.com/user-attachments/assets/d753502b-5e6b-45fa-a7f4-faf2ae92f7c8)
 
-A este punto la cantidad de árboles dificultaba la navegación el el espacio tridimensional, pero se continuó.
+A este punto la cantidad de árboles dificultaba la navegación en el espacio tridimensional, pero se continuó.
 
 ## Personas
 
@@ -54,7 +54,7 @@ Ahora a la persona se le pueden ver los colores.
 
 ![10](https://github.com/user-attachments/assets/dcdfdfe4-798c-4921-aafd-0ce0059d0d5a)
 
-Se colocó un árbol al lado de la parsona para comparar sus alturas, y por consiguiente se achicó la persona para que estuviera a escala con el árbol.
+Se colocó un árbol al lado de la persona para comparar sus alturas, y por consiguiente se achicó la persona para que estuviera a escala con el árbol.
 
 ![11](https://github.com/user-attachments/assets/81353cee-6eac-40b6-b915-ce4118257808)
 
@@ -76,7 +76,7 @@ Para compensar la cantidad reducida de árboles se aumentó el tamaño de cada u
 
 Valores nuevos del árbol. Note que la escala aumentó.
 
-Una vez se tuvo la nueva medida del árbol se pobló el terreno, aunque menos densamente que el primer intento.
+Una vez se tuvo la nueva medida del árbol se pobló el terreno, aunque menos densamente que en el primer intento.
 
 Una vez puestos a cada árbol le tocaba enterrarlo apropiadamente
 
